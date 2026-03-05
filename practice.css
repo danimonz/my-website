@@ -1,0 +1,36 @@
+.odd {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 10px;
+}
+
+.blue32 {
+    color: blue;
+    font-size: 32px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+.fourth {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.avatar
+{
+    width: 24px;
+}
+
+.original {
+    width: 70px;
+}
+
+.proportioned {
+    height: auto;
+}
+
+.distorted {
+    aspect-ratio: 1/8;
+}
